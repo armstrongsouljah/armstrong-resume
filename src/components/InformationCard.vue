@@ -1,16 +1,5 @@
 <template>
     <div class="container">
-        <div class="row">
-       <div class="col s12 m12">
-            <h3 class="header white-text">Hi, am <span class="purple-text"> Armstrong Muhwezi</span></h3>
-            <h4 class=" profession deep-orange-text">Web developer</h4>
-            <p class="white-text">
-              I enjoy building web solutions using modern programming languages such as Python(Django), JavaScript(Vuejs, Nodejs, Reactjs) among others.
-            </p>
-            <h5 class="deep-orange-text">What can I do for you?</h5>
-    </div>
-    </div>
-    
     <div class="row">
     <div class="col s12">
       <div class="card-panel blue-grey darken-3">
