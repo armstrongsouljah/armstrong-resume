@@ -4,7 +4,7 @@
             <h6 class="deep-orange-text center">How to contact me? </h6>
             <div class="card horizontal blue-grey darken-3">
             <div class="card-image">
-                <img src="https://lorempixel.com/100/190/nature/6">
+                <img src="../assets/images/myself.jpeg">
             </div>
             <div class="card-stacked">
                 <div class="card-content">
